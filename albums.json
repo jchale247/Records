@@ -1,0 +1,47 @@
+[
+    {
+        "spotifyId": "1Dtg3Qo9eMhrbT2Yr9EUOz",
+        "albumTitle": "Live at Radio City Music Hall",
+        "releaseDate": "2020-09-30",
+        "spotifyLink": "https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz",
+        "artists": "Rex Orange County",
+        "poster": "https://i.scdn.co/image/ab67616d0000b273d970cd18ef2f579691cf56bc",
+        "numSongs": "9"
+    },
+    {
+        "spotifyId": "4DxNdQzm6cBYuSn4dCimmT",
+        "albumTitle": "Apricot Princess",
+        "releaseDate": "2017-04-26",
+        "spotifyLink": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT",
+        "artists": "Rex Orange County",
+        "poster": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+        "numSongs": "10"
+    },
+    {
+        "spotifyId": "4xoGLGE2nneHuYg832m5IX",
+        "albumTitle": "You've Got a Friend in Me",
+        "releaseDate": "2018-05-31",
+        "spotifyLink": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX",
+        "artists": "Rex Orange County",
+        "poster": "https://i.scdn.co/image/ab67616d0000b273cb8d0f5d33abaf6a2ae44be2",
+        "numSongs": "1"
+    },
+    {
+        "spotifyId": "6rsQnwaoJHxXJRCDBPkBRw",
+        "albumTitle": "Favourite Worst Nightmare (Standard Version)",
+        "releaseDate": "2007-04-24",
+        "spotifyLink": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw",
+        "artists": "Arctic Monkeys",
+        "poster": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+        "numSongs": "12"
+    },
+    {
+        "spotifyId": "7Heaa0B4KOxdWhSICTR2wE",
+        "albumTitle": "Live at the Royal Albert Hall",
+        "releaseDate": "2020-12-04",
+        "spotifyLink": "https://open.spotify.com/album/7Heaa0B4KOxdWhSICTR2wE",
+        "artists": "Arctic Monkeys",
+        "poster": "https://i.scdn.co/image/ab67616d0000b273753ff61c73b2861911ce590d",
+        "numSongs": "20"
+    }
+]
