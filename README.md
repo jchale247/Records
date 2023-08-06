@@ -8,9 +8,9 @@ The application searches the Spotify API based on an entered search field. The u
 If an album is added, a custom Java Spring Boot backedn api is called to store the album information in a MongoDB database.
 
 ## Technologies used
-# Front-end
+### Front-end
 Next.js
 Tailwind
-# Back-end
+### Back-end
 Spring Boot
 MongoDB
