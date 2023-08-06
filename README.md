@@ -9,8 +9,8 @@ If an album is added, a custom Java Spring Boot backedn api is called to store t
 
 ## Technologies used
 ### Front-end
-Next.js
-Tailwind
+- Next.js
+- Tailwind
 ### Back-end
-Spring Boot
-MongoDB
+- Spring Boot
+- MongoDB
