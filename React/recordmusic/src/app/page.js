@@ -9,7 +9,7 @@ export default function Home() {
       </head>
       <Header />
       <Feed />
-      <main className="flex bg-neutral-900">
+      <main className="flex bg-zinc-900 h-screen">
       </main>
     </div>
   );
