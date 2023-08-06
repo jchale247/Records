@@ -9,7 +9,7 @@ If an album is added, a custom Java Spring Boot backedn api is called to store t
 
 ## Technologies used
 # Front-end
-React.js
+Next.js
 Tailwind
 # Back-end
 Spring Boot
