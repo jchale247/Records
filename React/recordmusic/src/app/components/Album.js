@@ -10,7 +10,7 @@ function Album({Img, Name, Artist}){
             height={500}
             alt="Album Cover"
             className='absolute top-4 h-48 w-48 rounded-lg group-hover:rounded-xl transition-all duration-500 '/>
-                <h1 className="absolute overflow-ellipsis whitespace-nowrap overflow-hidden bottom-9 left-3 text-lg text-sky-100">{Name}</h1>
+                <h1 className="absolute whitespace-nowrap overflow-hidden bottom-9 left-3 text-lg text-sky-100">{Name}</h1>
                 <h1 className="absolute overflow-ellipsis overflow-hidden bottom-5 left-3 text-xs text-sky-100">{Artist}</h1>
             </div>
     );
