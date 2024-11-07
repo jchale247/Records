@@ -1,16 +1,17 @@
-# Record Music
+# Records
 ### Project by Joseph Hale
 ## What is it?
-Record Music is a simple web app that allows the user to add music albums to their collection to keep track of the albums they own. 
+Records is a music tracking paltform for keeping a record of what albumns an individual owns and of what media type the albumn is (Vinyl, CD, Cassette, or digital) 
 
-The application searches the Spotify API based on an entered search field. The user can then choose to add any of the displayed albums that are returned. 
+This system was created as a means for me to check if an album is part of my collection with a quick glance while out at a record shop or second hand store to make sure I dont double buy an album.
 
-If an album is added, a custom Java Spring Boot backedn api is called to store the album information in a MongoDB database.
+The system uses spotify's API to allow for quick selections of albumns.
+As well as a system for custom album input
 
 ## Technologies used
 ### Front-end
-- Next.js
+- React.JS
 - Tailwind
 ### Back-end
-- Spring Boot
-- MongoDB
+- Node.JS
+- PostgreSQL
